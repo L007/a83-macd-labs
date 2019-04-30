@@ -28,7 +28,7 @@
  <?php
     $host = "eldiwebcloud.database.windows.net";
     $user = "l007";
-    $pass = "Miscrits32>";
+    $pass = "Miscrits32";
     $db = "webCloud";
 
     try {
